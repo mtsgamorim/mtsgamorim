@@ -2,6 +2,9 @@
 
 My name is **Matheus Amorim Garcia Santos**. I am currently a Full Stack Web Developer student at Driven Education.
 
+I'm in the 6º semester of Computer Science at UFJF - Juiz de Fora.
+
+[![wakatime](https://wakatime.com/badge/user/1677d9aa-d686-4986-a343-9e4db48e2d2a.svg)](https://wakatime.com/@1677d9aa-d686-4986-a343-9e4db48e2d2a)
 
 
 <div align="center">
