@@ -16,10 +16,8 @@
   <li>
       ☕ Apart of most programmers I'm not much of a coffee guy.
   </li>
+  <br/>
 </ul>
-
-[![wakatime](https://wakatime.com/badge/user/1677d9aa-d686-4986-a343-9e4db48e2d2a.svg)](https://wakatime.com/@1677d9aa-d686-4986-a343-9e4db48e2d2a)
-
 
 <div align="center">
   <a href="https://github.com/mtsgamorim">
