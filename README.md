@@ -1,8 +1,22 @@
 ### Hi there 👋
-
-My name is **Matheus Amorim Garcia Santos**. I am currently a Full Stack Web Developer student at Driven Education.
-
-I'm in the 6º semester of Computer Science at UFJF - Juiz de Fora.
+<ul>
+  <li>
+      👦 My name is <strong>Matheus Amorim Garcia Santos</strong>. I am currently a Full Stack Web Developer student at Driven Education.
+      
+  </li>
+  <br/>
+  <li>
+      📚 I'm in the 6º semester of Computer Science at UFJF - Juiz de Fora.
+  </li>
+  <br/>
+  <li>
+      😱 I love horror movies.
+  </li>
+  <br/>
+  <li>
+      ☕ Apart of most programmers I'm not much of a coffee guy.
+  </li>
+</ul>
 
 [![wakatime](https://wakatime.com/badge/user/1677d9aa-d686-4986-a343-9e4db48e2d2a.svg)](https://wakatime.com/@1677d9aa-d686-4986-a343-9e4db48e2d2a)
 
@@ -35,7 +49,7 @@ I'm in the 6º semester of Computer Science at UFJF - Juiz de Fora.
 
 </div>
 
-### Contact me:
+### Feel free to contact me 😄:
 <div align="left">
   
   [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtsgamorim@gmail.com)
