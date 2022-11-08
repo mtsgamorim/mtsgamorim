@@ -1,7 +1,7 @@
 ### Hi there 👋
 <ul>
   <li>
-      👦 My name is <strong>Matheus Amorim Garcia Santos</strong>. I am currently a Full Stack Web Developer student at Driven Education.
+      👦 My name is <strong>Matheus Amorim Garcia Santos</strong>. I am currently a Full Stack Web Developer.
       
   </li>
   <br/>
