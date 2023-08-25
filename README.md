@@ -6,7 +6,7 @@
   </li>
   <br/>
   <li>
-      📚 I'm in the 6º semester of Computer Science at UFJF - Juiz de Fora.
+      💙 Currently working @LEVTY as a Software Engineer
   </li>
   <br/>
   <li>
