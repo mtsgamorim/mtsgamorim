@@ -14,7 +14,7 @@
   </li>
   <br/>
   <li>
-      ☕ Apart of most programmers I'm not much of a coffee guy.
+      ☕ Unlike most programmers, I'm not much of a coffee guy.
   </li>
   <br/>
 </ul>
