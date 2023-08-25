@@ -6,7 +6,7 @@
   </li>
   <br/>
   <li>
-      💙 Currently working @LEVTY as a Software Engineer
+      💙 Currently working @LEVTY as a Software Engineer.
   </li>
   <br/>
   <li>
